@@ -1,0 +1,14 @@
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\bin\Debug\mediaPlayer.exe
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\bin\Debug\mediaPlayer.pdb
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\bin\Debug\mediaPlayer.xml
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\obj\x86\Debug\mediaPlayer.vbproj.ResolveComReference.cache
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\obj\x86\Debug\mediaPlayer.Form1.resources
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\obj\x86\Debug\mediaPlayer.Resources.resources
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\obj\x86\Debug\mediaPlayer.vbproj.GenerateResource.Cache
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\obj\x86\Debug\mediaPlayer.exe
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\obj\x86\Debug\mediaPlayer.xml
+C:\Users\SANKET\Desktop\JAVA ODE\mediaPlayer\mediaPlayer\obj\x86\Debug\mediaPlayer.pdb
